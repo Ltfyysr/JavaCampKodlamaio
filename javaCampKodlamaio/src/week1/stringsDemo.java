@@ -16,6 +16,7 @@ public class stringsDemo {
 		 * System.out.println(mesaj.indexOf("av"));
 		 * System.out.println(mesaj.lastIndexOf('e'));
 		 */
+		
 
 		String yeniMesaj = mesaj.replace(' ', '-');
 		System.out.println(yeniMesaj);
