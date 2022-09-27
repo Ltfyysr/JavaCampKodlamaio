@@ -1,4 +1,4 @@
-package week2;
+package methods;
 
 public class methods {
 
@@ -30,5 +30,4 @@ public class methods {
 	public static void mesajVer(String mesaj) {
 		System.out.println(mesaj);
 	}
-
 }
